@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('C:\Users\installer\Downloads\black-friday-sales-arrangement-with-copy-space.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
