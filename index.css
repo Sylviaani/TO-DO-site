@@ -9,6 +9,7 @@ body {
 }
 
 .navbar {
+    display: flex;
     justify-content: center;
     align-item: center;
     position: sticky;
@@ -16,6 +17,7 @@ body {
 }
 
 .navbar ul {
+    display: flex;
     list-style: none;
     margin: 20px 0px;
 }
@@ -25,21 +27,17 @@ body {
     font-weight: bold;
 }
 
-header {
-    text-align: center;
-    padding: 50px;
+.navbar ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 8px 25px;
+    transition: all .5s ease;
 }
 
-header h1 {
-    text-align: left;
-    margin-left: 5px;
-}
-
-header h2 {
-    text-align: left;
-    font-size: small;
-    font-style: italic;
-    margin-left: 5px;
+.navbar ul li a:hover {
+    background-color: #fff;
+    color: #000;
+    box-shading: 0 0 10px #fff;
 }
 
 main {
