@@ -11,12 +11,12 @@ body {
 header {
     text-align: center;
     padding: 50px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
-header h1 {
+header h1, header p {
     text-align: left;
-    margin: 0;
+    margin-bottom: 50px;
 }
 
 main {
@@ -26,5 +26,5 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.3);
 }
