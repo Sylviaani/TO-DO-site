@@ -8,6 +8,23 @@ body {
     color: #ffffff;
 }
 
+.navbar {
+    justify-content: center;
+    align-item: center;
+    position: sticky;
+    top: 0;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 20px 0px;
+}
+
+.navbar ul li {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
 header {
     text-align: center;
     padding: 50px;
