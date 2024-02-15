@@ -16,7 +16,7 @@ header {
 
 header h1 {
     text-align: left;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
 header h2 {
@@ -34,5 +34,5 @@ footer {
     text-align: center;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.3);
-    margin-bottom: 100px;
+    margin-bottom: -50px;
 }
