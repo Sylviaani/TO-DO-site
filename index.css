@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('black-friday-sales-arrangement-with-copy-space.jpg');
-    background-size: 80%;
+    background-size: 50%;
     background-position: center;
     font-family: 'Arial', sans-serif;
     color: #ffffff;
@@ -24,6 +24,7 @@ header h2 {
     font-size: small;
     font-style: italic;
     margin-left: 50px;
+}
 
 main {
     padding: 20px;
