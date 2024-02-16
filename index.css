@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: cover;
     background-position: center;
     font-family: 'Arial', sans-serif;
@@ -66,7 +67,7 @@ body {
     font-family: century;
     font-size: 2.2rem;
     font-weight: 500;
-    text-align: center;
+    text-align: right;
     margin: 100px 0px;
 }
 
