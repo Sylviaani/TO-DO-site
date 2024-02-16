@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-position: center;
     font-family: 'Arial', sans-serif;
-    background-color: #000;
+    background-color: #808080;
 }
 
 .navbar {
@@ -59,10 +59,11 @@ body {
     z-index: -1;
     opacity: .8;
 }
+
 #home h4 {
     font-style: italic;
-    font-size: small;
-    margin-top: 30px;
+    font-size: medium;
+    margin-top: 50px;
 }
 
 .main{
@@ -74,15 +75,10 @@ body {
     right: 15%;
 }
 .headings{
-    font-size: 2.2rem;
-    font-weight: 500;
+    font-size: large;
+    font-weight: bold;
     text-align: right;
-    margin: 100px 0px;
-}
-
-.headings h4 {
-    font-style: italic;
-    font-size: small;
+    margin-bottom: 30px;
 }
     
 .btn{
@@ -151,10 +147,13 @@ body {
     flex-direction: column;
     text-align: justify;
     padding: 15px;
+    color: #fff;
 }
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
+    color: #fff;
+    display: flex;
 }
 
 /* Social Media Links Styles */
@@ -181,4 +180,5 @@ footer {
     text-align: center;
     padding: 10px;
     margin-bottom: -200px;
+    color: #fff;
 }
