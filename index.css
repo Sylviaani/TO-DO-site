@@ -55,7 +55,7 @@ body {
     right: 0;
     background: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: 100%;
-    height: 660px;
+    height: 700px;
     width: 100%;
     z-index: -1;
     opacity: .8;
@@ -106,6 +106,7 @@ body {
     color: #ffffff;
     outline: none;
     transform: .6s ease;
+    margin-top: 10px;
 }
 .btn1:hover{
     cursor: pointer;
@@ -155,11 +156,13 @@ body {
 /* Social Media Links Styles */
 .social-media-links {
     margin-top: 10px;
+    margin-right: 100px;
 }
 
 .social-media-links a {
     display: inline-block;
     margin-right: 100px;
+    margin-top: 30px;
     color: #000;
     text-decoration: none;
     font-size: 20px;
