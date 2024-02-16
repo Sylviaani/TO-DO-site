@@ -135,13 +135,22 @@ body {
     margin-bottom: 20px;
 }
 
+/* Social Media Links Styles */
 .social-media-links {
-    display: flex;
-	box-sizing: border-box;
-	background: rgba(0, 0, 0, 0.6);
-	padding: 30px;
-	align-items: center;
-	justify-content: center;
+    margin-top: 10px;
+}
+
+.social-media-links a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-media-links a:hover {
+    color: #ffcc00; /* Change color on hover */
 }
 
 footer {
