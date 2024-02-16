@@ -133,6 +133,7 @@ body {
     font-weight: 500;
     text-align: center;
     margin-left: -50px;
+    color: #fff;
 }
 
 #pic{
@@ -165,14 +166,14 @@ body {
     display: inline-block;
     margin-right: 100px;
     margin-top: 30px;
-    color: #000;
+    color: #fff;
     text-decoration: none;
     font-size: 20px;
     transition: color 0.3s ease-in-out;
 }
 
 .social-media-links a:hover {
-    color: #fff; /* Change color on hover */
+    color: #000; /* Change color on hover */
 }
 
 footer {
