@@ -75,7 +75,6 @@ body {
     font-size: small;
 }
     
-
 .btn{
     padding: 10px 35px;
     background-color: transparent;
@@ -101,6 +100,26 @@ body {
     box-sizing: border-box;
     padding: 2px;
     margin-bottom: 0.2px;
+}
+
+#pic{
+    display: flex;
+}
+#pic img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    box-shadow: 4px 4px #414804;
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 15px;
+}
+#intro h2{
+    font-size: 2rem;
+    margin-bottom: 20px;
 }
 
 main {
