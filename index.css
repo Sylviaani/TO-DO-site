@@ -157,7 +157,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 15px;
+    padding: 10px;
     color: #fff;
 }
 #intro h2{
