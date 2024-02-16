@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: cover;
     background-position: center;
     font-family: 'Arial', sans-serif;
@@ -49,34 +48,33 @@ body {
     justify-content: center;
     align-items: center;
     color: #ffffff;
+    text-align: right;
 }
 #home::before{
     content: "";
     position: absolute;
     top: 0;
     right: 0;
-    background: url('jah.jpg') no-repeat center center/cover;
+    background: url('black-friday-sales-arrangement-with-copy-space.jpg');
+    background-size: cover;
     height: 660px;
     width:100%;
     z-index: -1;
     opacity: .8;
 }
-
-.main{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: absolute;
-    top: 22%;
-    right: 15%;
-}
-.headings1{
+.headings{
     font-family: century;
     font-size: 2.2rem;
     font-weight: 500;
     text-align: center;
     margin: 100px 0px;
 }
+
+.home headings h4 {
+    font-style: italic;
+    font-size: small;
+}
+    
 
 .btn{
     padding: 10px 35px;
