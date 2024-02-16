@@ -3,7 +3,7 @@ body {
     padding: 0;
     background-position: center;
     font-family: 'Arial', sans-serif;
-    background-color: #5A5A5A;
+    background-color: #A9A9A9;
 }
 
 .navbar {
@@ -62,8 +62,8 @@ body {
 
 #home h4 {
     font-style: italic;
-    font-size: small;
-    margin-top: 30px;
+    font-size: medium;
+    margin-top: 50px;
 }
 
 .main{
@@ -85,6 +85,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
+    border-radius: 30%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -101,6 +102,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
+    border-radius: 30%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
