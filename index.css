@@ -102,29 +102,26 @@ body {
     margin-bottom: 0.2px;
 }
 
-#pic{
+.pic{
     display: flex;
 }
-#pic img{
+.pic img{
     width: 500px;
     height: 500px;
     border-radius: 50%;
     box-shadow: 4px 4px #414804;
 }
-#intro{
+.intro{
     display: flex;
     flex-direction: column;
     text-align: justify;
     padding: 15px;
 }
-#intro h2{
+.intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
 }
 
-main {
-    padding: 20px;
-}
 
 footer {
     text-align: center;
