@@ -75,6 +75,11 @@ body {
     top: 22%;
     right: 15%;
 }
+
+.main img {
+    margin-right: 10px;
+}
+
 .headings{
     font-size: 3.3rem;
     font-weight: 500;
@@ -86,7 +91,7 @@ body {
     padding: 10px 20px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 10%;
+    border-radius: 20%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -103,7 +108,7 @@ body {
     padding: 10px 20px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 10%;
+    border-radius: 20%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
