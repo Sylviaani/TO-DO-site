@@ -52,7 +52,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    background: url('black-friday-sales-arrangement-with-copy-space.jpg') no-repeat center center/cover;
+    background: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: cover;
     height: 660px;
     width: 100%;
@@ -63,7 +63,7 @@ body {
 #home h4 {
     font-style: italic;
     font-size: medium;
-    margin-top: 150px;
+    margin-top: -100px;
 }
 
 .main{
@@ -85,7 +85,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 50%;
+    border-radius: 80%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -102,7 +102,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 50%;
+    border-radius: 80%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
