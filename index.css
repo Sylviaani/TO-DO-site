@@ -47,6 +47,7 @@ body {
     height: 600px;
     justify-content: center;
     align-items: center;
+    text-align: right;
     color: #ffffff;
 }
 #home::before{
