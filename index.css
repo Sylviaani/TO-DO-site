@@ -157,12 +157,12 @@ body {
     display: flex;
     flex-direction: column;
     text-align: justify;
-    padding: 2px;
+    padding: 1px;
     color: #fff;
 }
 #intro h2{
     font-size: 2rem;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     color: #fff;
 }
 
