@@ -83,7 +83,7 @@ body {
     
 .btn{
     padding: 10px 35px;
-    background-color: transparent;
+    background-color: £fff;
     border: 1px solid white;
     border-radius: 50%;
     color: #ffffff;
@@ -92,7 +92,7 @@ body {
 }
 .btn:hover{
     cursor: pointer;
-    background-color: #414804;
+    background-color: #000;
     color: black;
     box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
     font-weight: bold;
@@ -143,14 +143,14 @@ body {
 .social-media-links a {
     display: inline-block;
     margin-right: 10px;
-    color: #ffffff;
+    color: #000;
     text-decoration: none;
     font-size: 20px;
     transition: color 0.3s ease-in-out;
 }
 
 .social-media-links a:hover {
-    color: #ffcc00; /* Change color on hover */
+    color: #fff; /* Change color on hover */
 }
 
 footer {
