@@ -78,6 +78,8 @@ body {
 
 .main img {
     margin-right: 10px;
+    width: 50%;
+    height: 50%;
 }
 
 .headings{
