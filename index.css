@@ -86,7 +86,7 @@ body {
     padding: 10px 20px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 30%;
+    border-radius: 80%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -103,7 +103,7 @@ body {
     padding: 10px 20px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 30%;
+    border-radius: 80%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -157,6 +157,7 @@ body {
     color: #fff;
     display: flex;
     margin-right: 30px;
+    width: 50%;
 }
 
 /* Social Media Links Styles */
@@ -167,7 +168,7 @@ body {
 .social-media-links a {
     display: inline-block;
     align-items: left;
-    padding: 30px;
+    padding: 15px;
     margin-top: 20px;
     color: #fff;
     text-decoration: none;
