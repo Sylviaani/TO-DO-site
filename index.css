@@ -51,15 +51,19 @@ body {
 #home::before{
     content: "";
     position: absolute;
-    top: 0;
+    top: 10%;
     right: 0;
     background: url('black-friday-sales-arrangement-with-copy-space.jpg');
-    background-size: 100%;
-    height: 700px;
+    background-size: cover;
+    height: 660px;
     width: 100%;
     z-index: -1;
     opacity: .8;
 }
+#home h4 {
+    font-style: italic;
+    font-size: small;
+    margin-top: 30px;
 
 .main{
     display: flex;
