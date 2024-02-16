@@ -48,7 +48,6 @@ body {
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    text-align: right;
 }
 #home::before{
     content: "";
@@ -57,7 +56,7 @@ body {
     right: 0;
     background: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: cover;
-    height: 660px;
+    height: 400px;
     width:100%;
     z-index: -1;
     opacity: .8;
