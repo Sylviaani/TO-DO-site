@@ -11,6 +11,7 @@ body {
     justify-content: center;
     align-item: center;
     position: sticky;
+    background-color: #36454F;
     top: 0;
 }
 
