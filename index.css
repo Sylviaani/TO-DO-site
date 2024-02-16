@@ -50,7 +50,7 @@ body {
 #home::before{
     content: "";
     position: absolute;
-    top: 10%;
+    top: 0;
     right: 0;
     background: url('black-friday-sales-arrangement-with-copy-space.jpg');
     background-size: cover;
