@@ -80,7 +80,7 @@ body {
     margin-right: 10px;
     width: 60px;
     height: auto;
-    margin-bottom: -30px;
+    margin-bottom: -50px;
 }
 
 .headings{
@@ -167,7 +167,7 @@ body {
 }
 
 #intro h2 p{
-    line-height: 150%;
+    margin-bottom: 20px;
         }
     
 /* Social Media Links Styles */
