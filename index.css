@@ -64,7 +64,7 @@ body {
 #home h4 {
     font-style: italic;
     font-size: medium;
-    margin-top: -100px;
+    margin-top: -80px;
 }
 
 .main{
@@ -86,7 +86,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 80%;
+    border-radius: 95%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -103,7 +103,7 @@ body {
     padding: 10px 35px;
     background-color: £fff;
     border: 1px solid white;
-    border-radius: 80%;
+    border-radius: 95%;
     color: #ffffff;
     outline: none;
     transform: .6s ease;
@@ -142,6 +142,7 @@ body {
     height: 500px;
     border-radius: 50%;
     box-shadow: 4px 4px #414804;
+    margin-left: 20px;
 }
 #intro{
     display: flex;
@@ -155,16 +156,17 @@ body {
     margin-bottom: 20px;
     color: #fff;
     display: flex;
+    margin-right: 20px;
 }
 
 /* Social Media Links Styles */
 .social-media-links {
     margin-top: 10px;
-    margin-right: 100px;
 }
 
 .social-media-links a {
     display: inline-block;
+    padding: 15px;
     margin-right: 100px;
     margin-top: 30px;
     color: #fff;
