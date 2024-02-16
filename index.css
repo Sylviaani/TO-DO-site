@@ -5,7 +5,7 @@ body {
     background-size: cover;
     background-position: center;
     font-family: 'Arial', sans-serif;
-    color: #ffffff;
+    color: #000;
 }
 
 .navbar {
@@ -44,6 +44,9 @@ body {
 #home{
     display: flex;
     flex-direction: column;
+    position: absolute;
+    top: 22%;
+    right: 15%;
     background-color: rgba(0, 0, 0, 0.5);
     height: 600px;
     justify-content: center;
