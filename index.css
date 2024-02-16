@@ -98,6 +98,23 @@ body {
     font-weight: bold;
 }
 
+.btn1{
+    padding: 10px 35px;
+    background-color: £fff;
+    border: 1px solid white;
+    border-radius: 50%;
+    color: #ffffff;
+    outline: none;
+    transform: .6s ease;
+}
+.btn1:hover{
+    cursor: pointer;
+    background-color: #000;
+    color: black;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+    font-weight: bold;
+}
+
 /*About Me*/
 #about{
     display: flex;
