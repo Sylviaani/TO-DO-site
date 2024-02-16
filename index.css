@@ -135,6 +135,14 @@ body {
     margin-bottom: 20px;
 }
 
+.social-media-links {
+    display: flex;
+	box-sizing: border-box;
+	background: rgba(0, 0, 0, 0.6);
+	padding: 30px;
+	align-items: center;
+	justify-content: center;
+}
 
 footer {
     text-align: center;
